@@ -1,0 +1,1631 @@
+fileFormatVersion: 2
+guid: bdf62011492bc074c99aa0f08d65e119
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TangramReference_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 524
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb25020c1d935624f996d52f84cd096a
+      internalID: 934996841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 525
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6967c8077402dd49a8a442c01b479e7
+      internalID: -264914744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 525
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab9dd8f30da5734aaec36cb5f59b982
+      internalID: 1438616883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 525
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9119c2656b990074085468b5de189d44
+      internalID: 958077830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 525
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0c6cd0f51da1c4aa4389235dcabb8c
+      internalID: 1938488389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_5
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 525
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648ca9a2584853b40b156a4bc0b8c048
+      internalID: 196186943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_6
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 524
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c97a5bcae66004dbc345d286eec7b6
+      internalID: 727584029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_7
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 524
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2915dc3bcab8204b8d1e60b9cdc2a8f
+      internalID: -1017516657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_8
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 524
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe2b846ed7cd3849844afbe305f34a7
+      internalID: -371831721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_9
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 524
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e9c7047034ee34f89538162d97b922
+      internalID: -1144349208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_10
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 524
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9c69cf74b22a84a81e37f0f675d9c1
+      internalID: -1453502254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_11
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 524
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab7a3947eed8bf4a8e90235531c7cc4
+      internalID: -1935754477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 420
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e958f66a592c4a43936942161fa64a1
+      internalID: 992001847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 420
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4b0f931714f414c94369e1bc210c08
+      internalID: 1289344768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 420
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3992a7f2129d03c4e8409d7679ce0285
+      internalID: 1209050247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_15
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 420
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beed38823cf6214f8b4373aa340d623
+      internalID: 2019195469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_16
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 420
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4da66ad46c76a7458aaa22e8dfe9de7
+      internalID: 1319658340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_17
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 420
+        width: 106
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdafeabaed7b0943a805aed4228e131
+      internalID: -805074412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_18
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 420
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e2f7a1cd430b54789ce4585a15ce7b
+      internalID: 370581117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_19
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 420
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a97660b2c24ab54f966044cd36d6d4a
+      internalID: -1748561925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_20
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 420
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8078f08786257e247a191375139dba50
+      internalID: 798686154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_21
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 420
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2d86b60bc62f54d8168f18671071c7
+      internalID: -1139644406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_22
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 420
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653e90a8e97f01c45b43dc10d0477823
+      internalID: -990276228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_23
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 420
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d5ad48a9acadd448b6c5721a487415
+      internalID: -848057561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 316
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c529e3d973ce0498cad66347704a0f
+      internalID: 172028624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_25
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 316
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52611394c3d041a47b313ec6d6647b36
+      internalID: -1244422309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 316
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768a3989ceff9914496ecfeadec7ebea
+      internalID: 87425054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_27
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 316
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dc142ea26377e49b73b10fdcecb23c
+      internalID: 1014126793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_28
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 316
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a21eac82990ac14784116b6a1bef777
+      internalID: 748683568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_29
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 316
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850edf823d8db2c4b85a8a4a6fa786ee
+      internalID: 691818658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_30
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 315
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6da83371c1f4e846bef8e2a45542cbe
+      internalID: -460718840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_31
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 315
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f600b8ed0edee649a4b8e72167a0c2c
+      internalID: -2047090530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_32
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 315
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f3a84b550738f44bceb7db31bd924c
+      internalID: -1829264900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_33
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 315
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d82c0d8002346d4386fb6d07b26e4d9
+      internalID: -1373902532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_34
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 316
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd001cb70ad8fe5429a9e89e2fb78bf9
+      internalID: 1029027807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_35
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 316
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a27863e9556a834f8981c6d16a615c3
+      internalID: 1561671434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 211
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a237808dcfeaef42b10dc822c2c8bff
+      internalID: 2121357001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_37
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 211
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e32d840f2276843abd187098a49633
+      internalID: -339831015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 211
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae21ca4ea48da64db35e19dc418cc10
+      internalID: -659674850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_39
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 211
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7508adcec2d98c45a02a9e51957a42f
+      internalID: -1435569118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_40
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 211
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f2423d7ada2974fbc2e6f8fa523746
+      internalID: -2058583818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_41
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 211
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd1e3da0adf475499a11ee66fb9289d
+      internalID: -146003675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_42
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 211
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5628fe0552da6e741bd8592fada24402
+      internalID: 1742102299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_43
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 211
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80fe7ae70128af4e8af0c805e9b6174
+      internalID: -2054018613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_44
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 211
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0ace5cbbf650c4390ee998995114fc
+      internalID: 1429718453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_45
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 211
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11949a62aff8b7a458815a16464ba86f
+      internalID: -993369854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_46
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 211
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224e1d60d20021e499657ecba4281b8b
+      internalID: -2095117760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_47
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 211
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2bc6fda58a10b47b93eab2f6df1a5a
+      internalID: -49229871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 103
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c22a6bdc70a3f489c4c0782f1134da
+      internalID: 1328765039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_49
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 104
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0953c1a344d1ba543bc59e3a87f61c07
+      internalID: 1763471539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_50
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 103
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913da2c8d459f0c4c8e06f3b40015d7d
+      internalID: 36826896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_51
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 107
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8732234dd85f71749a9118983fc4cd2c
+      internalID: -878441557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_52
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 107
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6c245cb2a083e459ba1cf5574da955
+      internalID: 1198275585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_53
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 107
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7f5e2c2a0b8ca449330b2942a79554
+      internalID: 863834760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_54
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 106
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b97930acfdaccd479c1df4900fc7565
+      internalID: -1334396893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_55
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 106
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95ce6090a103b74fa403a3d0adc7303
+      internalID: -964967028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_56
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 106
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c119acc713be3a145a3740f4a7cae732
+      internalID: 143141270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_57
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 106
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4600c20635f8fc479f223f6454d3c24
+      internalID: 1229493434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_58
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 106
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b32813caee04144baa554fa287c2f79
+      internalID: -266278328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_59
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 0
+        width: 103
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60242675953e9e642be8962c7a034206
+      internalID: 1665916770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_60
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3115d6ffcd407448b8352d69096984c
+      internalID: 380728704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_61
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 3
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9742b3dd035f50d4f87d0e2411b20686
+      internalID: 908607511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_62
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 3
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1dfedaa312fd14caeca9649b847f4b
+      internalID: 931912428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_63
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 0
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1af7136d0a84c41964a107eb9699a5
+      internalID: 1058794944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_64
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaeeab8a6bdb174aadfc9170632adf3
+      internalID: 1023361446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_65
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d60cfc0536ea741ae76f08955061f5
+      internalID: -1880482546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_66
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 0
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9020d2961197acd4593cbdae5d466bc0
+      internalID: -303697576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TangramReference_67
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 0
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e88dc5ae9261f4a8dbea56ddff5368
+      internalID: 1406591160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TangramReference_30: -460718840
+      TangramReference_58: -266278328
+      TangramReference_0: 934996841
+      TangramReference_31: -2047090530
+      TangramReference_56: 143141270
+      TangramReference_62: 931912428
+      TangramReference_23: -848057561
+      TangramReference_47: -49229871
+      TangramReference_12: 992001847
+      TangramReference_32: -1829264900
+      TangramReference_59: 1665916770
+      TangramReference_21: -1139644406
+      TangramReference_26: 87425054
+      TangramReference_54: -1334396893
+      TangramReference_34: 1029027807
+      TangramReference_49: 1763471539
+      TangramReference_60: 380728704
+      TangramReference_6: 727584029
+      TangramReference_8: -371831721
+      TangramReference_67: 1406591160
+      TangramReference_11: -1935754477
+      TangramReference_45: -993369854
+      TangramReference_24: 172028624
+      TangramReference_35: 1561671434
+      TangramReference_66: -303697576
+      TangramReference_2: 1438616883
+      TangramReference_64: 1023361446
+      TangramReference_38: -659674850
+      TangramReference_16: 1319658340
+      TangramReference_53: 863834760
+      TangramReference_1: -264914744
+      TangramReference_51: -878441557
+      TangramReference_39: -1435569118
+      TangramReference_44: 1429718453
+      TangramReference_14: 1209050247
+      TangramReference_5: 196186943
+      TangramReference_29: 691818658
+      TangramReference_15: 2019195469
+      TangramReference_46: -2095117760
+      TangramReference_4: 1938488389
+      TangramReference_28: 748683568
+      TangramReference_25: -1244422309
+      TangramReference_20: 798686154
+      TangramReference_63: 1058794944
+      TangramReference_27: 1014126793
+      TangramReference_43: -2054018613
+      TangramReference_13: 1289344768
+      TangramReference_3: 958077830
+      TangramReference_10: -1453502254
+      TangramReference_33: -1373902532
+      TangramReference_50: 36826896
+      TangramReference_52: 1198275585
+      TangramReference_55: -964967028
+      TangramReference_42: 1742102299
+      TangramReference_37: -339831015
+      TangramReference_40: -2058583818
+      TangramReference_36: 2121357001
+      TangramReference_41: -146003675
+      TangramReference_57: 1229493434
+      TangramReference_22: -990276228
+      TangramReference_61: 908607511
+      TangramReference_7: -1017516657
+      TangramReference_48: 1328765039
+      TangramReference_9: -1144349208
+      TangramReference_19: -1748561925
+      TangramReference_18: 370581117
+      TangramReference_17: -805074412
+      TangramReference_65: -1880482546
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
