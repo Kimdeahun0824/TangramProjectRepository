@@ -50,11 +50,11 @@ SpriteAtlas:
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
-  - {fileID: 21300000, guid: fd868ce83f60a6744a6f5e6d989de9cb, type: 2}
   - {fileID: 21300000, guid: 0b6d0f08455001d459462082130fb230, type: 2}
+  - {fileID: 21300000, guid: fd868ce83f60a6744a6f5e6d989de9cb, type: 2}
   m_PackedSpriteNamesToIndex:
   - Btn_Long_Green
-  - Btn_Long_Green_Press
+  - Btn_Long_Green_Pressed
   m_RenderDataMap: {}
   m_Tag: AllImages
   m_IsVariant: 0
