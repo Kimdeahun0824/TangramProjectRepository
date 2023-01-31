@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/01. TangramProject/Scenes/01.TitleScene.unity
+    path: Assets/01.TangramProject/Scenes/01.TitleScene.unity
     guid: e4633901ada2864408e816c1d852073c
   - enabled: 1
-    path: Assets/01. TangramProject/Scenes/02.PlayScene.unity
-    guid: 666c718a691fbd446b64e52a4cbdd6c7
+    path: Assets/01.TangramProject/Scenes/02. PlayScene.unity
+    guid: 0f049f19c68b3564c8ce056cd5135fa9
   m_configObjects: {}
